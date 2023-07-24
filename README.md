@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# All about Elia, me #
+# All about me, and yes I know... I have to make my repositories public #
 ⚡ A fun fact about me is that if you translate my name from my mother tongue, Greek, into English, then it comes out that I am Olive.
 
 - 🎓 Currently a Master's Student in Information Security at University College London (UCL)
