@@ -1,9 +1,28 @@
 ### Hi there 👋
 
-<!--
-**enicol09/enicol09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# All about Elia, me #
+⚡ A fun fact about me is that if you translate my name from my mother tongue, Greek, into English, then it comes out that I am Olive.
 
-Here are some ideas to get you started:
+- 🎓 Currently a Master's Student in Information Security at University College London (UCL)
+- 🎓 Graduate from the University of Cyprus with a bachelor's degree in Computer Science (85%)
+      - Represented the University of Cyprus at Huawei Talent Summit 2021, sharing my team's project FIRELIA, an alternative approach using AI and IoT to detect wildfires.
+
+# My Interests 😋 #
+- Coding for young children
+- Cyber Security
+- Networks
+- Artificial Intelligence
+- Internet Of Things
+- Human-Computer-Interaction
+- IT Audit and Compliance
+- Privacy
+- Malware 
+
+# My languges & Tools #
+
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg " alt="java" style="max-width: 100%;" width="40" height="40">
+  
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
