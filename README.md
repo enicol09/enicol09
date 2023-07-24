@@ -18,18 +18,35 @@
 - Privacy
 - Malware 
 
-# My languges & Tools #
+# My languages & Tools #
 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg " alt="java" style="max-width: 100%;" width="40" height="40">
-  
+1. Java
+2. JavaScript / Spring / Vue
+3. C
+4. C++
+5. C#
+6. Bash - Linux
+7. Python
+8. HTML/CSS
+9. Go
+10. SQL
+11. AWS (under construction)
+
+# MY hobbies 👯  #
+- Books (currently reading Atomic Habits)
+- Scouting (297th Scout Troop Latsia, Cyprus)
+- Hiking
+- Stars/Constellations
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Currently Working 🔭 #
+
+- On my Final Thesis project in cryptography with @Drand
+- On creating alternative methods for teaching coding, specifically Python to young children
+- On creating a raspberry pi project for lighting up the sky map of constellations based on location and time. (contact me if you are interested)
+
+# I’m currently learning 🤔 #
+- Undertaking the training for AWS.
+- How to program the raspberry pi
+- How to handle my patience with cryptography.
+
