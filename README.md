@@ -20,17 +20,31 @@
 
 # My languages & Tools #
 
-1. Java
-2. JavaScript / Spring / Vue
-3. C
-4. C++
-5. C#
-6. Bash - Linux
-7. Python
-8. HTML/CSS
-9. Go
-10. SQL
-11. AWS (under construction)
+
+<br>
+
+<p align="center">
+<img  alt="Java" width="40px"    style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img  alt="Python" width="40px"    style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img  alt="Postgres" width="40px"    style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img  alt="Tensorflow" width="40px"    style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img  alt="Pandas" width="40px"    style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<img  alt="Jupyter" width="40px"    style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+<img  alt="Git" width="40px"    style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img  alt="Linux" width="40px"    style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img  alt="Bootstrap" width="40px"    style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+<img  alt="HTML" width="40px"    style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img  alt="CSS" width="40px"    style="padding-right:10px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img  alt="JavaScript" width="40px"    style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img  alt="C++" width="40px"    style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img  alt="C" width="40px"    style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img  alt="Bash" width="40px"    style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img  alt="Docker" width="40px"    style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+      
+</p>
+
+<br>
+
 
 # MY hobbies 👯  #
 - Books (currently reading Atomic Habits)
