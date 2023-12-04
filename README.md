@@ -9,14 +9,13 @@
 
 # My Interests 😋 #
 - Coding for young children
-- Cyber Security
-- Networks
+- Cyber Security - Focusing on Attacks
+- Networks and Cloud Security
 - Artificial Intelligence
 - Internet Of Things
 - Human-Computer-Interaction
-- IT Audit and Compliance
 - Privacy
-- Malware 
+- Malware / Testing
 
 # My languages & Tools #
 
@@ -55,13 +54,10 @@
 
 
 # Currently Working 🔭 #
-
-- On my Final Thesis project in cryptography with @Drand
 - On creating alternative methods for teaching coding, specifically Python to young children
 - On creating a raspberry pi project for lighting up the sky map of constellations based on location and time. (contact me if you are interested)
 
 # I’m currently learning 🤔 #
 - Undertaking the training for AWS.
 - How to program the raspberry pi
-- How to handle my patience with cryptography.
 
