@@ -3,6 +3,7 @@
 # All about me, and yes I know... I have to make my repositories public #
 ⚡ A fun fact about me is that if you translate my name from my mother tongue, Greek, into English, then it comes out that I am Olive.
 
+- 🎓 PhD in Cybersecurity, Privacy and Trust at University of Edinburgh (UoE)
 - 🎓 Master's in Information Security at University College London (UCL) 
 - 🎓 Graduate from the University of Cyprus with a bachelor's degree in Computer Science 
       - Represented the University of Cyprus at Huawei Talent Summit 2021, sharing my team's project FIRELIA, an alternative approach using AI and IoT to detect wildfires.
@@ -10,13 +11,12 @@
 # My Interests 😋 #
 - Coding for young children
 - Cyber Security - Focusing on Attacks
-- Networks and Cloud Security
+- Formal Methods for Security
 - Artificial Intelligence
 - Internet Of Things
 - Human-Computer-Interaction
 - Privacy
-- Malware / Testing
-
+- Safety
 # My languages & Tools #
 
 
@@ -47,17 +47,16 @@
 
 
 # MY hobbies 👯  #
-- Books (currently reading Atomic Habits)
+- Books (Currently reading There is No Planet B)
 - Scouting (297th Scout Troop Latsia, Cyprus)
 - Hiking
 - Stars/Constellations
 
 
 # Currently Working 🔭 #
-- On creating alternative methods for teaching coding, specifically Python to young children
-- On creating a raspberry pi project for lighting up the sky map of constellations based on location and time. (contact me if you are interested)
+- On my research
+- On my Blog
 
 # I’m currently learning 🤔 #
-- Undertaking the training for AWS.
-- How to program the raspberry pi
+- Everything
 
